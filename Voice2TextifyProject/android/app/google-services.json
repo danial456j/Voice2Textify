@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776541460845",
+    "project_id": "voice2textifyproject",
+    "storage_bucket": "voice2textifyproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776541460845:android:0261c5ff7a6625cf0ce264",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGL1lGkL7LKbKRdaa5Ucktz6qoixGGizw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
